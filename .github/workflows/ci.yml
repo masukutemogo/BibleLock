@@ -25,15 +25,17 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
 
-      - name: Run domain unit tests
-        run: ./gradlew :core-domain:test
+      - name: Run unit tests
+        run: ./gradlew :core-domain:test :core-data:testDebugUnitTest
 
-      - name: Upload test report
+      - name: Upload test reports
         if: always()
         uses: actions/upload-artifact@v4
         with:
-              name: core-domain-test-report
-              path: core-domain/build/reports/tests/test
+          name: test-reports
+          path: |
+            core-domain/build/reports/tests/test
+            core-data/build/reports/tests/testDebugUnitTest
 
       - name: Build debug APK
         run: ./gradlew :app:assembleDebug
