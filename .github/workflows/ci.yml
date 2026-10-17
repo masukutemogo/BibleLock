@@ -28,5 +28,12 @@ jobs:
       - name: Run domain unit tests
         run: ./gradlew :core-domain:test
 
+      - name: Upload test report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+              name: core-domain-test-report
+              path: core-domain/build/reports/tests/test
+
       - name: Build debug APK
         run: ./gradlew :app:assembleDebug
