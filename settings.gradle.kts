@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BibleLock"
 include(":app")
+include(":core-domain")
