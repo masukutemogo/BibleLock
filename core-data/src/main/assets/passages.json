@@ -1,0 +1,100 @@
+[
+  {
+    "id": "john-15-1-8",
+    "reference": "John 15:1-8",
+    "text": "“I am the true vine, and my Father is the farmer. Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit. You are already pruned clean because of the word which I have spoken to you. Remain in me, and I in you. As the branch can’t bear fruit by itself, unless it remains in the vine, so neither can you, unless you remain in me. I am the vine. You are the branches. He who remains in me, and I in him, the same bears much fruit, for apart from me you can do nothing. If a man doesn’t remain in me, he is thrown out as a branch, and is withered; and they gather them, throw them into the fire, and they are burned. If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you. “In this is my Father glorified, that you bear much fruit; and so you will be my disciples.",
+    "recallPrompt": "What does Jesus call himself in this passage?",
+    "acceptableAnswers": [
+      "vine"
+    ]
+  },
+  {
+    "id": "psalm-23",
+    "reference": "Psalm 23",
+    "text": "Yahweh is my shepherd: I shall lack nothing. He makes me lie down in green pastures. He leads me beside still waters. He restores my soul. He guides me in the paths of righteousness for his name’s sake. Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me. You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over. Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh’s house forever.",
+    "recallPrompt": "What does the psalmist say the Lord is?",
+    "acceptableAnswers": [
+      "shepherd"
+    ]
+  },
+  {
+    "id": "john-3-16-21",
+    "reference": "John 3:16-21",
+    "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life. For God didn’t send his Son into the world to judge the world, but that the world should be saved through him. He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God. This is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil. For everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed. But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”",
+    "recallPrompt": "Whom did God so love, according to this passage?",
+    "acceptableAnswers": [
+      "world"
+    ]
+  },
+  {
+    "id": "matthew-6-25-34",
+    "reference": "Matthew 6:25-34",
+    "text": "Therefore I tell you, don’t be anxious for your life: what you will eat, or what you will drink; nor yet for your body, what you will wear. Isn’t life more than food, and the body more than clothing? See the birds of the sky, that they don’t sow, neither do they reap, nor gather into barns. Your heavenly Father feeds them. Aren’t you of much more value than they? “Which of you, by being anxious, can add one moment to his lifespan? Why are you anxious about clothing? Consider the lilies of the field, how they grow. They don’t toil, neither do they spin, yet I tell you that even Solomon in all his glory was not dressed like one of these. But if God so clothes the grass of the field, which today exists, and tomorrow is thrown into the oven, won’t he much more clothe you, you of little faith? “Therefore don’t be anxious, saying, ‘What will we eat?’, ‘What will we drink?’ or, ‘With what will we be clothed?’ For the Gentiles seek after all these things; for your heavenly Father knows that you need all these things. But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well. Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.",
+    "recallPrompt": "Which flowers does Jesus tell us to consider?",
+    "acceptableAnswers": [
+      "lilies",
+      "lily"
+    ]
+  },
+  {
+    "id": "philippians-4-4-9",
+    "reference": "Philippians 4:4-9",
+    "text": "Rejoice in the Lord always! Again I will say, “Rejoice!” Let your gentleness be known to all men. The Lord is at hand. In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus. Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think about these things. The things which you learned, received, heard, and saw in me: do these things, and the God of peace will be with you.",
+    "recallPrompt": "What does Paul say to bring our requests to God with, instead of being anxious?",
+    "acceptableAnswers": [
+      "prayer",
+      "pray",
+      "petition",
+      "thanksgiving"
+    ]
+  },
+  {
+    "id": "romans-8-31-39",
+    "reference": "Romans 8:31-39",
+    "text": "What then shall we say about these things? If God is for us, who can be against us? He who didn’t spare his own Son, but delivered him up for us all, how would he not also with him freely give us all things? Who could bring a charge against God’s chosen ones? It is God who justifies. Who is he who condemns? It is Christ who died, yes rather, who was raised from the dead, who is at the right hand of God, who also makes intercession for us. Who shall separate us from the love of Christ? Could oppression, or anguish, or persecution, or famine, or nakedness, or peril, or sword? Even as it is written, “For your sake we are killed all day long. We were accounted as sheep for the slaughter.” No, in all these things, we are more than conquerors through him who loved us. For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from God’s love, which is in Christ Jesus our Lord.",
+    "recallPrompt": "What can nothing separate us from?",
+    "acceptableAnswers": [
+      "love"
+    ]
+  },
+  {
+    "id": "isaiah-40-28-31",
+    "reference": "Isaiah 40:28-31",
+    "text": "Haven’t you known? Haven’t you heard? The everlasting God, Yahweh, The Creator of the ends of the earth, doesn’t faint. He isn’t weary. His understanding is unsearchable. He gives power to the weak. He increases the strength of him who has no might. Even the youths faint and get weary, and the young men utterly fall; But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.",
+    "recallPrompt": "Which bird is mentioned in the promise to those who wait on the Lord?",
+    "acceptableAnswers": [
+      "eagle",
+      "eagles"
+    ]
+  },
+  {
+    "id": "1-corinthians-13-4-13",
+    "reference": "1 Corinthians 13:4-13",
+    "text": "Love is patient and is kind; love doesn’t envy. Love doesn’t brag, is not proud, doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil; doesn’t rejoice in unrighteousness, but rejoices with the truth; bears all things, believes all things, hopes all things, endures all things. Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with. For we know in part, and we prophesy in part; but when that which is complete has come, then that which is partial will be done away with. When I was a child, I spoke as a child, I felt as a child, I thought as a child. Now that I have become a man, I have put away childish things. For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known. But now faith, hope, and love remain—these three. The greatest of these is love.",
+    "recallPrompt": "Of faith, hope and love, which is the greatest?",
+    "acceptableAnswers": [
+      "love"
+    ]
+  },
+  {
+    "id": "psalm-121",
+    "reference": "Psalm 121",
+    "text": "I will lift up my eyes to the hills. Where does my help come from? My help comes from Yahweh, who made heaven and earth. He will not allow your foot to be moved. He who keeps you will not slumber. Behold, he who keeps Israel will neither slumber nor sleep. Yahweh is your keeper. Yahweh is your shade on your right hand. The sun will not harm you by day, nor the moon by night. Yahweh will keep you from all evil. He will keep your soul. Yahweh will keep your going out and your coming in, from this time forward, and forever more.",
+    "recallPrompt": "Where does the psalmist lift up his eyes?",
+    "acceptableAnswers": [
+      "hills",
+      "hill"
+    ]
+  },
+  {
+    "id": "luke-15-11-24",
+    "reference": "Luke 15:11-24",
+    "text": "He said, “A certain man had two sons. The younger of them said to his father, ‘Father, give me my share of your property.’ He divided his livelihood between them. Not many days after, the younger son gathered all of this together and traveled into a far country. There he wasted his property with riotous living. When he had spent all of it, there arose a severe famine in that country, and he began to be in need. He went and joined himself to one of the citizens of that country, and he sent him into his fields to feed pigs. He wanted to fill his belly with the husks that the pigs ate, but no one gave him any. But when he came to himself he said, ‘How many hired servants of my father’s have bread enough to spare, and I’m dying with hunger! I will get up and go to my father, and will tell him, “Father, I have sinned against heaven, and in your sight. I am no more worthy to be called your son. Make me as one of your hired servants.”’ “He arose, and came to his father. But while he was still far off, his father saw him, and was moved with compassion, and ran, and fell on his neck, and kissed him. The son said to him, ‘Father, I have sinned against heaven, and in your sight. I am no longer worthy to be called your son.’ “But the father said to his servants, ‘Bring out the best robe, and put it on him. Put a ring on his hand, and shoes on his feet. Bring the fattened calf, kill it, and let us eat, and celebrate; for this, my son, was dead, and is alive again. He was lost, and is found.’ They began to celebrate.",
+    "recallPrompt": "What animals was the younger son sent to feed?",
+    "acceptableAnswers": [
+      "pigs",
+      "pig",
+      "swine"
+    ]
+  }
+]

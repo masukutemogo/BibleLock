@@ -33,3 +33,7 @@ More modules will be added as each layer is built.
 ```
 ./gradlew :core-domain:test
 ```
+
+## Scripture text
+
+Passages are from the World English Bible (WEB), which is in the public domain.
