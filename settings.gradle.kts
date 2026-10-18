@@ -26,3 +26,4 @@ rootProject.name = "BibleLock"
 include(":app")
 include(":core-domain")
 include(":core-data")
+include(":feature-lock")

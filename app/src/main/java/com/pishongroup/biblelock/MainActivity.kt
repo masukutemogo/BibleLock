@@ -27,19 +27,33 @@ import com.pishongroup.biblelock.ui.theme.BibleLockTheme
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.time.LocalDate
+import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.setValue
+import com.pishongroup.biblelock.lock.permission.LockPermissionChecker
 
 class MainActivity : ComponentActivity() {
+    private var refreshTick by mutableIntStateOf(0)
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         val app = application as BibleLockApp
+        val checker = LockPermissionChecker(this)
         setContent {
             BibleLockTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    TodayScreen(app, Modifier.padding(innerPadding))
+                    Column(Modifier.padding(innerPadding)) {
+                        PermissionsPanel(checker, refreshTick)
+                        TodayScreen(app, Modifier.weight(1f))
+                    }
                 }
             }
         }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        refreshTick++
     }
 }
 
